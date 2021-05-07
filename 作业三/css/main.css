@@ -1,0 +1,290 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box1 {
+    height: 250px;
+    width: 1200px;
+    margin-left: 0px;
+    background-color: lightblue;
+}
+
+.box2 {
+    height: 340px;
+    width: 750px;
+    margin-left: 200px;
+    background-color: whitesmoke;
+}
+
+.box3 {
+    height: 350px;
+    width: 1200px;
+    background-color: rgb(158, 149, 149);
+    margin-left: 0px;
+}
+
+.box11 {
+    width: 240px;
+    margin-left: 800px;
+    height: 70px;
+}
+
+.box12 {
+    width: 300px;
+    margin-left: 200px;
+    height: 110px;
+    margin-top: 65px;
+}
+
+.box21 {
+    height: 50px;
+    width: 750px;
+    margin-top: 10px;
+}
+
+.box21 p {
+    font: 20px;
+    margin-top: 5px;
+}
+
+.box22 {
+    height: 50px;
+    width: 750px;
+    background-color: rgb(153, 146, 146);
+    margin-top: 5px;
+}
+
+.box23 {
+    height: 210px;
+    margin-top: 5px;
+    background-color: rgb(160, 157, 157);
+    width: 750px;
+}
+
+.box31 {
+    height: 50px;
+    width: 750px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.box32 {
+    height: 50px;
+    width: 750px;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 200px;
+}
+
+.box33 {
+    height: 230px;
+    background-color: gray;
+    width: 750px;
+    margin-left: 200px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.tab_list {
+    height: 50px;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+.tab_list1 {
+    height: 50px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+.tab_list li {
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.tab_list1 li {
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.tab_list .current {
+    background-color: #c81623;
+    color: #fff;
+}
+
+.tab_list1 .current1 {
+    background-color: #c81623;
+    color: white;
+}
+
+.item_info {
+    padding: 20px 0 0 20px;
+}
+
+.item_info1 {
+    padding: 20px 0 0 20px;
+}
+
+.item {
+    display: none;
+}
+
+.item1 {
+    display: none;
+}
+
+.img23 {
+    display: block;
+    float: left;
+    height: 100px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.div23 {
+    float: left;
+    height: 120px;
+    width: 230px;
+    margin-left: 5px;
+    margin-top: 50px;
+    color: lightslategray;
+}
+
+.div231 {
+    font: 20px;
+}
+
+.div232 {
+    font: 10px;
+}
+
+.div233 {
+    font: 8px;
+}
+
+.div235 {
+    float: right;
+    height: 100px;
+    width: 100px;
+    margin-top: 40px;
+}
+
+.div121 {
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    display: block;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.div122 {
+    margin-left: 10px;
+    margin-top: 20px;
+    color: rgb(24, 19, 19);
+    float: left;
+}
+
+.div123 {
+    width: 80px;
+    height: 20px;
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+.div124 {
+    width: 80px;
+    height: 15px;
+    margin-top: 35px;
+    margin-left: 60px;
+}
+
+.div321 {
+    float: right;
+    margin-right: 10px;
+    margin-top: 2px;
+    width: 240px;
+    height: 46px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: lightblue;
+}
+
+#txt1 {
+    height: 40px;
+    width: 155px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 2px;
+    border: none;
+}
+
+#btn1 {
+    height: 30px;
+    width: 30px;
+    float: right;
+    margin-right: 30px;
+    border-radius: 100%;
+    margin-top: 7px;
+    background-color: lightblue;
+    border-style: none;
+}
+
+.div331 {
+    height: 150px;
+    width: 200px;
+    background-color: lightgray;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    border-radius: 7px;
+    padding-left: 15px;
+    float: left;
+}
+
+.div3311 {
+    font: 10px;
+    color: rgb(70, 66, 66);
+    margin-top: 5px;
+}
+
+.div3312 {
+    font: 5px;
+    color: rgb(70, 66, 66);
+    margin-top: 10px;
+}
+
+.div3313 {
+    height: 20px;
+    width: 20px;
+    display: block;
+    margin-top: 0px;
+    background-color: white;
+    margin-left: 160px;
+    border: solid lightblue;
+    border-radius: 50%;
+}
+
+.div3314 {
+    height: 20px;
+    width: 20px;
+    display: block;
+    margin-top: 0px;
+    background-color: white;
+    margin-left: 660px;
+    border: solid lightblue;
+    border-radius: 50%;
+}
